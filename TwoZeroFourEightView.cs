@@ -80,6 +80,8 @@ namespace twozerofoureight
         private void btnLeft_Click(object sender, EventArgs e)
         {
             controller.ActionPerformed(TwoZeroFourEightController.LEFT);
+
+
         }
 
         private void btnRight_Click(object sender, EventArgs e)
